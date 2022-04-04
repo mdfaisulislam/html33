@@ -1,12 +1,39 @@
-h1{ 
-	color: blue;
-
+.box{
+     width: 50px;
+     height: 50px;
+    background-color: rgba(255 174 174 / 82%);
+    margin: 11px 100px 50px 810px;
+    padding: 12px;
 }
-.bg_red{
-	background-color: red;
-}
-.border{border: medium;}
 
-#bg_green{
-     background-color: green;
+.color{
+    color: white;
+}
+#big_font{
+    font-size: 45px;
+}
+html{
+      background-color: rgba(247 169 163/80%);
+}
+.box0{
+    width: 100%;
+    display: inline;
+    margin: 42px 12px 10px 1800px;
+    color: red;
+}
+.box1{
+    margin: 11px 11px 11px 11px;
+}
+.box2{
+    margin: 10px 10px 10px 10px;
+}
+.box3{
+    margin: 450px 10px 10px 10px;
+}
+h3{
+    display: inline;
+}
+.box4{
+    display: inline-block;
+    margin: 10px 10px 10px 500px;
 }
